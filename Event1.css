@@ -186,6 +186,7 @@ nav ul li a{
     transform: rotate(10deg);
     border-top-left-radius: 35px;
     border-bottom-right-radius: 35px;
+    display: none;
 }
 
 .title-text h1{
