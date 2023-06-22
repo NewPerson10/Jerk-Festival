@@ -115,7 +115,7 @@
     background: #4ea0e47e;
     text-align: center;
     position: fixed;
-    right: 60px;
+    right: 20px;
     top: 20px;
     border-radius: 3px;
     z-index: 8;
@@ -142,7 +142,7 @@
     
 }
 #SideNav nav ul{
-    padding-top: 120px;
+    padding-top: 70px;
 }
 
 #SideNav nav ul li{
@@ -154,7 +154,7 @@
 #SideNav nav ul li a{
     text-decoration: none;
     color: #fff;
-    font-size: 300%;
+    font-size: 70%;
     font-weight: bolder;
     
 }
