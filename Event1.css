@@ -116,7 +116,7 @@
     text-align: center;
     position: fixed;
     right: 60px;
-    top: 13vh;
+    top: 20px;
     border-radius: 3px;
     z-index: 8;
     cursor: pointer;
@@ -138,9 +138,11 @@
     transition: 0.5s;
     text-align: left;
     border-radius: 10px;
+    font-size: 100px;
+    
 }
 #SideNav nav ul{
-    padding-top: 460px;
+    padding-top: 120px;
 }
 
 #SideNav nav ul li{
