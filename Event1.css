@@ -256,6 +256,9 @@ nav ul li a{
     border: 1px solid black;
     border-color: #fff;
 }
+.socials a{
+   background-color: #3591ce00;
+}
 #backtotop{
     font-size: 70%;
 }
